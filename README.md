@@ -1,4 +1,4 @@
-<img width="1080" height="510" alt="Screenshot 2025-09-20 101435" src="https://github.com/user-attachments/assets/0700d2c1-99f3-40f9-a679-069aa8fd2d26" /><img width="1855" height="972" alt="Screenshot 2025-09-19 124007" src="https://github.com/user-attachments/assets/a4c9a481-0973-4654-b640-88a0d25f70a4" /> 🌐 Real Time PDF Analyzer & Chat
+🌐 Real Time PDF Analyzer & Chat
 
 Full-Stack Developer | AI Enthusiast
 
@@ -69,4 +69,4 @@ Add more advanced AI models for better answers
 Deploy on cloud with authentication & user profiles
 
 🤝 Connect with Me
-👨‍💻 LinkedIn
+👨‍💻 LinkedIn: https://www.linkedin.com/in/tharun-mopada/
